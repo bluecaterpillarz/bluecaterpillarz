@@ -1,8 +1,8 @@
 ## Hi there 👋
 I'm Zeynep, a developer based in Istanbul, Türkiye.  
 
-- 🐍 Main tech stack: Python, C++ , SQL 
-- 🤖 Currently focusing on Machine Learning
+- 🐍 Main tech stack: Python, C++  
+- 🤖 Currently focusing on SQL and Machine Learning
 - 🔭 Working on data analysis and ML-related projects
 - 📊 Interested in data analysis, machine learning, and simulation
 - 🌱 Always learning and building
